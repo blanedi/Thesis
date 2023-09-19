@@ -1,7 +1,7 @@
 
-# To what extent does women's participation in politics influence the development and implementation of progressive care policies in Latin America and the Caribbean?
+## Impact of women's participation in politics on the development and implementation of progressive care policies in Latin America and the Caribbean
 
-This repository contains the R code and analysis for the thesis titled "To what extent does women's participation in politics influence the development and implementation of progressive care policies in Latin America and the Caribbean?".
+This repository contains the R code and analysis for the thesis that aims to answer ["To what extent does women's participation in politics influence the development and implementation of progressive care policies in Latin America and the Caribbean?"](https://www.researchgate.net/publication/371555501_Impact_of_women%27s_participation_in_politics_on_the_development_and_implementation_of_progressive_care_policies_in_Latin_America_and_the_Caribbean?channel=doi&linkId=6489bb53712bd82962230b14&showFulltext=true) written by [Cintya Huaire](https://www.linkedin.com/in/cintyahuaire/) to obtain the master degree of public policy at Hertie school.
 
 ## Table of Contents
 - [Libraries Used](#libraries-used)
