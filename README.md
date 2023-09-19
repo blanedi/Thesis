@@ -1,5 +1,5 @@
 
-## Impact of women's participation in politics on the development and implementation of progressive care policies in Latin America and the Caribbean
+# Impact of women's participation in politics on the development and implementation of progressive care policies in Latin America and the Caribbean
 
 This repository houses the R code and analytical framework for [Cintya Huaire](https://www.linkedin.com/in/cintyahuaire/)'s [master's thesis](https://www.researchgate.net/publication/371555501_Impact_of_women%27s_participation_in_politics_on_the_development_and_implementation_of_progressive_care_policies_in_Latin_America_and_the_Caribbean?channel=doi&linkId=6489bb53712bd82962230b14&showFulltext=true) at the Hertie School of Public Policy. The research delves into the extent to which women's active involvement in politics shapes the formulation and execution of forward-thinking care policies across Latin America and the Caribbean.  
 
